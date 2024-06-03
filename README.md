@@ -1,6 +1,8 @@
 Re-scored previous set and selected from there
 
 Selection process:
+- Enamine
+- Don't use fragment x1097
 - Butina clustering to select diverse subset
 - SuCOS >= 0.55
 - comRMSD <= 1.0A
